@@ -1,0 +1,1244 @@
+fileFormatVersion: 2
+guid: 61634885dc5c6c842b41d9466e55b89a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9140871617180649208
+    second: louis_3_0
+  - first:
+      213: 2088200819341603284
+    second: louis_3_1
+  - first:
+      213: 8014156291750684891
+    second: louis_3_2
+  - first:
+      213: -6837059722683247140
+    second: louis_3_3
+  - first:
+      213: -4716653192795935884
+    second: louis_3_4
+  - first:
+      213: -3686523191469996840
+    second: louis_3_5
+  - first:
+      213: 6270984339102432710
+    second: louis_3_6
+  - first:
+      213: -1158833656076015629
+    second: louis_3_7
+  - first:
+      213: 7800639747798852897
+    second: louis_3_8
+  - first:
+      213: -3469227267137864360
+    second: louis_3_9
+  - first:
+      213: 4917056425368944630
+    second: louis_3_10
+  - first:
+      213: 5968521342427661739
+    second: louis_3_11
+  - first:
+      213: 7474896957673557386
+    second: louis_3_12
+  - first:
+      213: -2450600883697471114
+    second: louis_3_13
+  - first:
+      213: 2144067027830661316
+    second: louis_3_14
+  - first:
+      213: 3790267687281096827
+    second: louis_3_15
+  - first:
+      213: 5354375892805751539
+    second: louis_3_16
+  - first:
+      213: 4090393896363697700
+    second: louis_3_17
+  - first:
+      213: 3366895527097243141
+    second: louis_3_18
+  - first:
+      213: 8509116957294816184
+    second: louis_3_19
+  - first:
+      213: -476356178491183230
+    second: louis_3_20
+  - first:
+      213: -19340850330928508
+    second: louis_3_21
+  - first:
+      213: -4746396429142166760
+    second: louis_3_22
+  - first:
+      213: 4821269471286218488
+    second: louis_3_23
+  - first:
+      213: 4668162732753946557
+    second: louis_3_24
+  - first:
+      213: 4608790362432637131
+    second: louis_3_25
+  - first:
+      213: 8999623688774352495
+    second: louis_3_26
+  - first:
+      213: 5800115946594325455
+    second: louis_3_27
+  - first:
+      213: -8622767723804366629
+    second: louis_3_28
+  - first:
+      213: -5422625082432977486
+    second: louis_3_29
+  - first:
+      213: 4887690287987358422
+    second: louis_3_30
+  - first:
+      213: -9208772113756272203
+    second: louis_3_31
+  - first:
+      213: -1012372518451764733
+    second: louis_3_32
+  - first:
+      213: -2760293310793843283
+    second: louis_3_33
+  - first:
+      213: 5054914224039491041
+    second: louis_3_34
+  - first:
+      213: -5393939497553811697
+    second: louis_3_35
+  - first:
+      213: -9090114764835257175
+    second: louis_3_36
+  - first:
+      213: 4231111183178777242
+    second: louis_3_37
+  - first:
+      213: 1177536293608330707
+    second: louis_3_38
+  - first:
+      213: -945901067632767284
+    second: louis_3_39
+  - first:
+      213: -2258875341502664583
+    second: louis_3_40
+  - first:
+      213: -4682600966338203894
+    second: louis_3_41
+  - first:
+      213: -3001496628005575106
+    second: louis_3_42
+  - first:
+      213: -4405369423235358491
+    second: louis_3_43
+  - first:
+      213: 2113426303382950843
+    second: louis_3_44
+  - first:
+      213: -7819184444866174893
+    second: louis_3_45
+  - first:
+      213: -2437687117399211078
+    second: louis_3_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: louis_3_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 338
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6c08f2e46eade70800000000000000
+      internalID: 9140871617180649208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 338
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d13988d497cafc10800000000000000
+      internalID: 2088200819341603284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 338
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8e240cfa0083f60800000000000000
+      internalID: 8014156291750684891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 354
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd595511862ed11a0800000000000000
+      internalID: -6837059722683247140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_4
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 350
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bafaa39e41b8eb0800000000000000
+      internalID: -4716653192795935884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_5
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 354
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4013c70b6d6dcc0800000000000000
+      internalID: -3686523191469996840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_6
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 356
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdfc340803070750800000000000000
+      internalID: 6270984339102432710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_7
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 358
+        width: 75
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f762d7fdeefaefe0800000000000000
+      internalID: -1158833656076015629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_8
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 359
+        width: 74
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125e7546580714c60800000000000000
+      internalID: 7800639747798852897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_9
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 346
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85df5296e24dadfc0800000000000000
+      internalID: -3469227267137864360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 258
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fffaa664c4ec3440800000000000000
+      internalID: 4917056425368944630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 258
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba50db1d98274d250800000000000000
+      internalID: 5968521342427661739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 258
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dc7c6ed2b2cb760800000000000000
+      internalID: 7474896957673557386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_13
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 258
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67134f8ea77bdfdd0800000000000000
+      internalID: -2450600883697471114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 258
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c069702a9141cd10800000000000000
+      internalID: 2144067027830661316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_15
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 258
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78f700416cb99430800000000000000
+      internalID: 3790267687281096827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_16
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 258
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f21a9c71809e4a40800000000000000
+      internalID: 5354375892805751539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 178
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4262f20b39ff3c830800000000000000
+      internalID: 4090393896363697700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 178
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5069b70b4ad99be20800000000000000
+      internalID: 3366895527097243141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_19
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 178
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb6fc71ac4761670800000000000000
+      internalID: 8509116957294816184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 98
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f687a5494a369f0800000000000000
+      internalID: -476356178491183230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 102
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48afe5e59994bbff0800000000000000
+      internalID: -19340850330928508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 104
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8137ccd5899612eb0800000000000000
+      internalID: -4746396429142166760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_23
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 108
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe437a3a0798e240800000000000000
+      internalID: 4821269471286218488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_24
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 108
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7048fb545a8c040800000000000000
+      internalID: 4668162732753946557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_25
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 161
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc88a0d8a66b5ff30800000000000000
+      internalID: 4608790362432637131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_26
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 105
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ef599101615ec70800000000000000
+      internalID: 8999623688774352495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_27
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 166
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc355dc19b62e7050800000000000000
+      internalID: 5800115946594325455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_28
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 101
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8efe9c076c55880800000000000000
+      internalID: -8622767723804366629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_29
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 167
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b58573c737feb4b0800000000000000
+      internalID: -5422625082432977486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_30
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 167
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dafc9bbb6094d340800000000000000
+      internalID: 4887690287987358422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_31
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 165
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9c80e7d8ed33080800000000000000
+      internalID: -9208772113756272203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_32
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 99
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302a059ee8453f1f0800000000000000
+      internalID: -1012372518451764733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_33
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 99
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadfe36cbd771b9d0800000000000000
+      internalID: -2760293310793843283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_34
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 98
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e571f564b9a62640800000000000000
+      internalID: 5054914224039491041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_35
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 99
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f072b54fa90e425b0800000000000000
+      internalID: -5393939497553811697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_36
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 99
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4067a68cc69d180800000000000000
+      internalID: -9090114764835257175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_37
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 18
+        width: 65
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92cd86243de7ba30800000000000000
+      internalID: 4231111183178777242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_38
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 18
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d597aa2503775010800000000000000
+      internalID: 1177536293608330707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_39
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 18
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce06179dfb7fd2f0800000000000000
+      internalID: -945901067632767284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_40
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 18
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97038dd48dcd6a0e0800000000000000
+      internalID: -2258875341502664583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 18
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fa2880b3f040fb0800000000000000
+      internalID: -4682600966338203894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_42
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 18
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36e13d28ba8856d0800000000000000
+      internalID: -3001496628005575106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 18
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e060b7a9dbfcd2c0800000000000000
+      internalID: -4405369423235358491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_44
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 18
+        width: 79
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb39b188606645d10800000000000000
+      internalID: 2113426303382950843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 18
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350ed7adc2dac7390800000000000000
+      internalID: -7819184444866174893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_3_46
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 19
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3cfdd6b789b2ed0800000000000000
+      internalID: -2437687117399211078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

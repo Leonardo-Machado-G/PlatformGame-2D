@@ -1,0 +1,1628 @@
+fileFormatVersion: 2
+guid: 3ff37a47f1d294d4cb4c576fcfea2428
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3187334660624654871
+    second: louis_0alpha_0
+  - first:
+      213: 345812179525867276
+    second: louis_0alpha_1
+  - first:
+      213: 4398856117216706927
+    second: louis_0alpha_2
+  - first:
+      213: -5971870845007442573
+    second: louis_0alpha_3
+  - first:
+      213: -7248930277979100599
+    second: louis_0alpha_4
+  - first:
+      213: -7281221937058395000
+    second: louis_0alpha_5
+  - first:
+      213: 8266306562429677009
+    second: louis_0alpha_6
+  - first:
+      213: -8704975195422403146
+    second: louis_0alpha_7
+  - first:
+      213: 8507564100580534442
+    second: louis_0alpha_8
+  - first:
+      213: -523746811858282048
+    second: louis_0alpha_9
+  - first:
+      213: -7354296934730849978
+    second: louis_0alpha_10
+  - first:
+      213: 7183888007372571991
+    second: louis_0alpha_11
+  - first:
+      213: -6223025850333783198
+    second: louis_0alpha_12
+  - first:
+      213: -6088309833475775153
+    second: louis_0alpha_13
+  - first:
+      213: -2492044351528161186
+    second: louis_0alpha_14
+  - first:
+      213: 88564635987333738
+    second: louis_0alpha_15
+  - first:
+      213: -9015226699104525282
+    second: louis_0alpha_16
+  - first:
+      213: 6214165552999892765
+    second: louis_0alpha_17
+  - first:
+      213: -2027784478726033318
+    second: louis_0alpha_18
+  - first:
+      213: -4928451343122259620
+    second: louis_0alpha_19
+  - first:
+      213: -93946016775329557
+    second: louis_0alpha_20
+  - first:
+      213: -6208987344463691961
+    second: louis_0alpha_21
+  - first:
+      213: 6870863014186893844
+    second: louis_0alpha_22
+  - first:
+      213: -1187892482367146783
+    second: louis_0alpha_23
+  - first:
+      213: 1851807523783203952
+    second: louis_0alpha_24
+  - first:
+      213: -5685115319378609579
+    second: louis_0alpha_25
+  - first:
+      213: 1276180653615435759
+    second: louis_0alpha_26
+  - first:
+      213: -803334460185203480
+    second: louis_0alpha_27
+  - first:
+      213: -5560013428146234212
+    second: louis_0alpha_28
+  - first:
+      213: 8576736707969206658
+    second: louis_0alpha_29
+  - first:
+      213: 8316257627170060856
+    second: louis_0alpha_30
+  - first:
+      213: 4118301791609873599
+    second: louis_0alpha_31
+  - first:
+      213: -2278888762172979915
+    second: louis_0alpha_32
+  - first:
+      213: 406810754370473450
+    second: louis_0alpha_33
+  - first:
+      213: 5206297565107739898
+    second: louis_0alpha_34
+  - first:
+      213: 5736106296362445775
+    second: louis_0alpha_35
+  - first:
+      213: -6946930442689608767
+    second: louis_0alpha_36
+  - first:
+      213: -8807908195729982019
+    second: louis_0alpha_37
+  - first:
+      213: 6119557734825886161
+    second: louis_0alpha_38
+  - first:
+      213: -3617777608277773458
+    second: louis_0alpha_39
+  - first:
+      213: -8083101875911355012
+    second: louis_0alpha_40
+  - first:
+      213: 1509104483835548287
+    second: louis_0alpha_41
+  - first:
+      213: 4566188752072894063
+    second: louis_0alpha_42
+  - first:
+      213: 1112741862881325854
+    second: louis_0alpha_43
+  - first:
+      213: 3452291462227531074
+    second: louis_0alpha_44
+  - first:
+      213: -8151700521103990616
+    second: louis_0alpha_45
+  - first:
+      213: 7239435834971684874
+    second: louis_0alpha_46
+  - first:
+      213: 125924011472778168
+    second: louis_0alpha_47
+  - first:
+      213: 3797815452447893583
+    second: louis_0alpha_48
+  - first:
+      213: -694289390133904664
+    second: louis_0alpha_49
+  - first:
+      213: -6827323933468877856
+    second: louis_0alpha_50
+  - first:
+      213: 483702087107589842
+    second: louis_0alpha_51
+  - first:
+      213: -5304419176696614126
+    second: louis_0alpha_52
+  - first:
+      213: 7954142517416726832
+    second: louis_0alpha_53
+  - first:
+      213: -2688310340837348206
+    second: louis_0alpha_54
+  - first:
+      213: 148395750085272196
+    second: louis_0alpha_55
+  - first:
+      213: -6131654765331118663
+    second: louis_0alpha_56
+  - first:
+      213: 6534046830140799475
+    second: louis_0alpha_57
+  - first:
+      213: -5418864745005934399
+    second: louis_0alpha_58
+  - first:
+      213: -2621472775926285407
+    second: louis_0alpha_59
+  - first:
+      213: 6017422117553271485
+    second: louis_0alpha_60
+  - first:
+      213: -7210361045742526530
+    second: louis_0alpha_61
+  - first:
+      213: -7039207991514214889
+    second: louis_0alpha_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: louis_0alpha_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 481
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed5d2d630054c3d0800000000000000
+      internalID: -3187334660624654871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 481
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0794a758529cc400800000000000000
+      internalID: 345812179525867276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 481
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6181cc1550eb0d30800000000000000
+      internalID: 4398856117216706927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 481
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dc1d65b17af1da0800000000000000
+      internalID: -5971870845007442573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 481
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a6b739150a66b90800000000000000
+      internalID: -7248930277979100599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_5
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 481
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c4adec937e3fa90800000000000000
+      internalID: -7281221937058395000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_6
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 481
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dde9129502d7b270800000000000000
+      internalID: 8266306562429677009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_7
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 481
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5d2424e27b13780800000000000000
+      internalID: -8704975195422403146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_8
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 481
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8e7f67970f01670800000000000000
+      internalID: 8507564100580534442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_9
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 524
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c991feac074bb8f0800000000000000
+      internalID: -523746811858282048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_10
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 481
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641af9017e940f990800000000000000
+      internalID: -7354296934730849978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 401
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75581a1b41c42b360800000000000000
+      internalID: 7183888007372571991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 401
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b18cac5fe53a9a0800000000000000
+      internalID: -6223025850333783198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 401
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45a825b67af18ba0800000000000000
+      internalID: -6088309833475775153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 401
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5035ae9dda7a6dd0800000000000000
+      internalID: -2492044351528161186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_15
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 401
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62dfa33115aa3100800000000000000
+      internalID: 88564635987333738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_16
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 401
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14e146f41b73e280800000000000000
+      internalID: -9015226699104525282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_17
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 401
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17070a75a62d3650800000000000000
+      internalID: 6214165552999892765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_18
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 401
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50fb70a2ccdbd3e0800000000000000
+      internalID: -2027784478726033318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_19
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 401
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51a6609d9f9a9bb0800000000000000
+      internalID: -4928451343122259620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 321
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be82b02789c32bef0800000000000000
+      internalID: -93946016775329557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 321
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f785628ee35d9a0800000000000000
+      internalID: -6208987344463691961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 321
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412cafc02853a5f50800000000000000
+      internalID: 6870863014186893844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_23
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 321
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4362db412c38fe0800000000000000
+      internalID: -1187892482367146783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 321
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c5e7fa121f2b910800000000000000
+      internalID: 1851807523783203952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_25
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 321
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a7e41fcb96a11b0800000000000000
+      internalID: -5685115319378609579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_26
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 321
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef49fffa87e5b110800000000000000
+      internalID: 1276180653615435759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_27
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 321
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eca4d0909bf9d4f0800000000000000
+      internalID: -803334460185203480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_28
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 321
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c11fcce3dd6d2b0800000000000000
+      internalID: -5560013428146234212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 246
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289ce8a2890b60770800000000000000
+      internalID: 8576736707969206658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_30
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 255
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aba102048496370800000000000000
+      internalID: 8316257627170060856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_31
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 269
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4e2c6e8a5272930800000000000000
+      internalID: 4118301791609873599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_32
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 259
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535cc00beb2cf50e0800000000000000
+      internalID: -2278888762172979915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 241
+        width: 77
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed8f09c93845a500800000000000000
+      internalID: 406810754370473450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_34
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 242
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc5a332d0c704840800000000000000
+      internalID: 5206297565107739898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_35
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 241
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcba09c094eba9f40800000000000000
+      internalID: 5736106296362445775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 170
+        width: 56
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3832c919b879f90800000000000000
+      internalID: -6946930442689608767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_37
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 164
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd334b892604c580800000000000000
+      internalID: -8807908195729982019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 172
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d18ac646590de450800000000000000
+      internalID: 6119557734825886161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_39
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 167
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63bd3ede621bcdc0800000000000000
+      internalID: -3617777608277773458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_40
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 161
+        width: 76
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7592038bad03df80800000000000000
+      internalID: -8083101875911355012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_41
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 162
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7297ff488a61f410800000000000000
+      internalID: 1509104483835548287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 161
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6660b03a7c5e5f30800000000000000
+      internalID: 4566188752072894063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_43
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 161
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e137fb724d0417f00800000000000000
+      internalID: 1112741862881325854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 161
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2459f2b3bc009ef20800000000000000
+      internalID: 3452291462227531074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_45
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 161
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0ea3cc0975fde80800000000000000
+      internalID: -8151700521103990616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 81
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0088b52984a77460800000000000000
+      internalID: 7239435834971684874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_47
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 81
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3f684a83f5fb100800000000000000
+      internalID: 125924011472778168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_48
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 81
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4865a5480d84b430800000000000000
+      internalID: 3797815452447893583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_49
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 81
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eafeb96a736d56f0800000000000000
+      internalID: -694289390133904664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_50
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 81
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb90132e097041a0800000000000000
+      internalID: -6827323933468877856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_51
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 81
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6b9274c7476b600800000000000000
+      internalID: 483702087107589842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_52
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 81
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2137a31ecdae266b0800000000000000
+      internalID: -5304419176696614126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_53
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 81
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031947b0a7ac26e60800000000000000
+      internalID: 7954142517416726832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_54
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 82
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c61600df331bad0800000000000000
+      internalID: -2688310340837348206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_55
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 81
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482a20206253f0200800000000000000
+      internalID: 148395750085272196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_56
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b58b135a7cf7eaa0800000000000000
+      internalID: -6131654765331118663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_57
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f93f4029f89daa50800000000000000
+      internalID: 6534046830140799475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_58
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 8
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8980c89335cc4b0800000000000000
+      internalID: -5418864745005934399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_59
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 11
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab7e824668ae9bd0800000000000000
+      internalID: -2621472775926285407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_60
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 9
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db27754c88d228350800000000000000
+      internalID: 6017422117553271485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_61
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 6
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfd33eb4d6afeb90800000000000000
+      internalID: -7210361045742526530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_0alpha_62
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 25
+        width: 70
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e44b580a5bf4e90800000000000000
+      internalID: -7039207991514214889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

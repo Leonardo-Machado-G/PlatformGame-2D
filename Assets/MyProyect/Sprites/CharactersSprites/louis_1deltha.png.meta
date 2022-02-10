@@ -1,0 +1,1724 @@
+fileFormatVersion: 2
+guid: 2ae3e8bb61cfdeb46b762644e574e1ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7383507019168167165
+    second: louis_1deltha_0
+  - first:
+      213: 203239773185813161
+    second: louis_1deltha_1
+  - first:
+      213: 6790386402793862803
+    second: louis_1deltha_2
+  - first:
+      213: -8416435253673714262
+    second: louis_1deltha_3
+  - first:
+      213: -679459487858550922
+    second: louis_1deltha_4
+  - first:
+      213: 1265362646885955998
+    second: louis_1deltha_5
+  - first:
+      213: 8122861358082671645
+    second: louis_1deltha_6
+  - first:
+      213: -1530428423423071782
+    second: louis_1deltha_7
+  - first:
+      213: 2020000028515596135
+    second: louis_1deltha_8
+  - first:
+      213: 4047972106840623179
+    second: louis_1deltha_9
+  - first:
+      213: -1355050245003255412
+    second: louis_1deltha_10
+  - first:
+      213: 1447814438936270280
+    second: louis_1deltha_11
+  - first:
+      213: -2185767404252698349
+    second: louis_1deltha_12
+  - first:
+      213: 8447870885869889081
+    second: louis_1deltha_13
+  - first:
+      213: -6513868289216877146
+    second: louis_1deltha_14
+  - first:
+      213: -7417478451482050031
+    second: louis_1deltha_15
+  - first:
+      213: 8196935386419427136
+    second: louis_1deltha_16
+  - first:
+      213: 7091901788772019311
+    second: louis_1deltha_17
+  - first:
+      213: 509515687797385100
+    second: louis_1deltha_18
+  - first:
+      213: 4661643887534367949
+    second: louis_1deltha_19
+  - first:
+      213: -7499485692816830121
+    second: louis_1deltha_20
+  - first:
+      213: -3569586958301966605
+    second: louis_1deltha_21
+  - first:
+      213: 9151864678000352717
+    second: louis_1deltha_22
+  - first:
+      213: 6730821464723489171
+    second: louis_1deltha_23
+  - first:
+      213: 8761414515243778761
+    second: louis_1deltha_24
+  - first:
+      213: -2215295912417670109
+    second: louis_1deltha_25
+  - first:
+      213: 5770430240515110423
+    second: louis_1deltha_26
+  - first:
+      213: 5074744317102705203
+    second: louis_1deltha_27
+  - first:
+      213: -7899099274744922206
+    second: louis_1deltha_28
+  - first:
+      213: 7193955249559680924
+    second: louis_1deltha_29
+  - first:
+      213: 5236131680867441562
+    second: louis_1deltha_30
+  - first:
+      213: -213426611933452339
+    second: louis_1deltha_31
+  - first:
+      213: 4695804667245963257
+    second: louis_1deltha_32
+  - first:
+      213: 1796325246816913869
+    second: louis_1deltha_33
+  - first:
+      213: 5491791759187705339
+    second: louis_1deltha_34
+  - first:
+      213: 5013873274949378880
+    second: louis_1deltha_35
+  - first:
+      213: -1720952377070154059
+    second: louis_1deltha_36
+  - first:
+      213: -1444435489398429628
+    second: louis_1deltha_37
+  - first:
+      213: 1724396257128885504
+    second: louis_1deltha_38
+  - first:
+      213: -8965733574107751076
+    second: louis_1deltha_39
+  - first:
+      213: -8939682892060071837
+    second: louis_1deltha_40
+  - first:
+      213: -366455972385223766
+    second: louis_1deltha_41
+  - first:
+      213: 5048581735232334714
+    second: louis_1deltha_42
+  - first:
+      213: -7362235699128941762
+    second: louis_1deltha_43
+  - first:
+      213: 2687708601451035366
+    second: louis_1deltha_44
+  - first:
+      213: 8288350773309895425
+    second: louis_1deltha_45
+  - first:
+      213: -1253836588236919443
+    second: louis_1deltha_46
+  - first:
+      213: -5818819397631196624
+    second: louis_1deltha_47
+  - first:
+      213: 2262087273709886783
+    second: louis_1deltha_48
+  - first:
+      213: 3958191416515049243
+    second: louis_1deltha_49
+  - first:
+      213: 5171052484741430227
+    second: louis_1deltha_50
+  - first:
+      213: 9153254057501394696
+    second: louis_1deltha_51
+  - first:
+      213: 861315589294715283
+    second: louis_1deltha_52
+  - first:
+      213: 8468083778523090644
+    second: louis_1deltha_53
+  - first:
+      213: 7584523186594479031
+    second: louis_1deltha_54
+  - first:
+      213: -6620038410533678663
+    second: louis_1deltha_55
+  - first:
+      213: -8317549550589941544
+    second: louis_1deltha_56
+  - first:
+      213: 7111043924056891908
+    second: louis_1deltha_57
+  - first:
+      213: 3927126834909312015
+    second: louis_1deltha_58
+  - first:
+      213: 6635496936503419519
+    second: louis_1deltha_59
+  - first:
+      213: -7181422472308143301
+    second: louis_1deltha_60
+  - first:
+      213: 4744487846398418030
+    second: louis_1deltha_61
+  - first:
+      213: 7131441137511792821
+    second: louis_1deltha_62
+  - first:
+      213: -136166163128248880
+    second: louis_1deltha_63
+  - first:
+      213: -3062590218931272215
+    second: louis_1deltha_64
+  - first:
+      213: -2241578404799207225
+    second: louis_1deltha_65
+  - first:
+      213: 6534200380462639076
+    second: louis_1deltha_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: louis_1deltha_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 481
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df43f12b38c777660800000000000000
+      internalID: 7383507019168167165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 481
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaa8f43f7d02d200800000000000000
+      internalID: 203239773185813161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 481
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396bb22d47c4c3e50800000000000000
+      internalID: 6790386402793862803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 481
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad14bd9ab0d23b80800000000000000
+      internalID: -8416435253673714262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 481
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6771cea12331296f0800000000000000
+      internalID: -679459487858550922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 481
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e997fa78f987f8110800000000000000
+      internalID: 1265362646885955998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 481
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14c3405e533ab070800000000000000
+      internalID: 8122861358082671645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_7
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 481
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9e4bb1573d2cae0800000000000000
+      internalID: -1530428423423071782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_8
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 488
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76773f1d25b780c10800000000000000
+      internalID: 2020000028515596135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_9
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 488
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48cce02f294d2830800000000000000
+      internalID: 4047972106840623179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 401
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8166c54bf4e13de0800000000000000
+      internalID: -1355050245003255412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 401
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c55a75bf8ba71410800000000000000
+      internalID: 1447814438936270280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 407
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319e3e360289aa1e0800000000000000
+      internalID: -2185767404252698349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 406
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936a3acdfcddc3570800000000000000
+      internalID: 8447870885869889081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_14
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 401
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adeb8b8d471a95a0800000000000000
+      internalID: -6513868289216877146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_15
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 401
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1124c4ad5a2df0990800000000000000
+      internalID: -7417478451482050031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 401
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047fb520e4d51c170800000000000000
+      internalID: 8196935386419427136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_17
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 412
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ca6b53a1f7b6260800000000000000
+      internalID: 7091901788772019311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_18
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 413
+        width: 70
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87e6aa81d9221700800000000000000
+      internalID: 509515687797385100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 321
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc46bd1da6c71b040800000000000000
+      internalID: 4661643887534367949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_20
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 321
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75157811f797ce790800000000000000
+      internalID: -7499485692816830121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 327
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe4b8be297467ec0800000000000000
+      internalID: -3569586958301966605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_22
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 326
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdd7ac9f64f10f70800000000000000
+      internalID: 9151864678000352717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_23
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 321
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3910b63f57ea86d50800000000000000
+      internalID: 6730821464723489171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_24
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 321
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c28e07e41cc69970800000000000000
+      internalID: 8761414515243778761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_25
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 321
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c48f3da10b141e0800000000000000
+      internalID: -2215295912417670109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_26
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 323
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716331f0bbfa41050800000000000000
+      internalID: 5770430240515110423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_27
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 322
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ac6dab11d1d6640800000000000000
+      internalID: 5074744317102705203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_28
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 324
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af78439f03c06290800000000000000
+      internalID: -7899099274744922206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 241
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97bf0c2f2016d360800000000000000
+      internalID: 7193955249559680924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_30
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 241
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bd543850a7aa840800000000000000
+      internalID: 5236131680867441562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_31
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 241
+        width: 74
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7671290a1c90df0800000000000000
+      internalID: -213426611933452339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_32
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 241
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f721d52779da2140800000000000000
+      internalID: 4695804667245963257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_33
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 241
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9869d6b44dde810800000000000000
+      internalID: 1796325246816913869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_34
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 241
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdfcca1283c63c40800000000000000
+      internalID: 5491791759187705339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_35
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 241
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043ae2ecd2bd49540800000000000000
+      internalID: 5013873274949378880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_36
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 241
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be8e595ee2fd18e0800000000000000
+      internalID: -1720952377070154059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_37
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 241
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4486079439554fbe0800000000000000
+      internalID: -1444435489398429628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_38
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 241
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d2e2672494ee710800000000000000
+      internalID: 1724396257128885504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 171
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d938c11d0539380800000000000000
+      internalID: -8965733574107751076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_40
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 169
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3686f1e26cddfe380800000000000000
+      internalID: -8939682892060071837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_41
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 161
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab88241c361aeaf0800000000000000
+      internalID: -366455972385223766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_42
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 161
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b6c04f65a201640800000000000000
+      internalID: 5048581735232334714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_43
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 161
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3348b073a514d990800000000000000
+      internalID: -7362235699128941762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_44
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 191
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea3041abb8ac4520800000000000000
+      internalID: 2687708601451035366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_45
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 165
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10378f06d13260370800000000000000
+      internalID: 8288350773309895425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_46
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 161
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d20cf144a799ee0800000000000000
+      internalID: -1253836588236919443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_47
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 81
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0324a0856966f3fa0800000000000000
+      internalID: -5818819397631196624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_48
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 81
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dd860f36c846f10800000000000000
+      internalID: 2262087273709886783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_49
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 81
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1731663f125ee630800000000000000
+      internalID: 3958191416515049243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_50
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 81
+        width: 57
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbf9e366d443c740800000000000000
+      internalID: 5171052484741430227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_51
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 81
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807064cb114e60f70800000000000000
+      internalID: 9153254057501394696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_52
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 81
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391fa6b07f104fb00800000000000000
+      internalID: 861315589294715283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_53
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 81
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4decd1ba45da48570800000000000000
+      internalID: 8468083778523090644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_54
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 81
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb7da757a3a14960800000000000000
+      internalID: 7584523186594479031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_55
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 81
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1d2bcd326e024a0800000000000000
+      internalID: -6620038410533678663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_56
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 81
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8606380c0229c80800000000000000
+      internalID: -8317549550589941544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4026c93e5c08fa260800000000000000
+      internalID: 7111043924056891908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_58
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f047caeac05ff7630800000000000000
+      internalID: 3927126834909312015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72aa70be45061c50800000000000000
+      internalID: 6635496936503419519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_60
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bc01c6f46765c90800000000000000
+      internalID: -7181422472308143301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_61
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c5cb51f8ec7d140800000000000000
+      internalID: 4744487846398418030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_62
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b08ff93ee7f7f260800000000000000
+      internalID: 7131441137511792821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_63
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 4
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d51058989d3c1ef0800000000000000
+      internalID: -136166163128248880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_64
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e504041c6e7f75d0800000000000000
+      internalID: -3062590218931272215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_65
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8a1c5315054e0e0800000000000000
+      internalID: -2241578404799207225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: louis_1deltha_66
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7a2b850a42eaa50800000000000000
+      internalID: 6534200380462639076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
